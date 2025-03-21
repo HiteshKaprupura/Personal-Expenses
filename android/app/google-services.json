@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558233372737",
+    "project_id": "personal-expenses-d5cec",
+    "storage_bucket": "personal-expenses-d5cec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558233372737:android:8f107a3c03a51fc5485ec0",
+        "android_client_info": {
+          "package_name": "com.example.personal_expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558233372737-57t0njhq9klg1038u8dogt6lgc02l09a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9iKet1obM5DbKK3WoRdrkJh9ki2hxMnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558233372737-57t0njhq9klg1038u8dogt6lgc02l09a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
