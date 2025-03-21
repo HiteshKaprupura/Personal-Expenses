@@ -11,7 +11,9 @@ Personal Expenses is a Flutter-based financial management app that helps users t
 ✅ Home Page: Displays total balance, income, and expenses dynamically.✅ Add/Delete Transactions: Users can manage their daily transactions efficiently.✅ Category-Based Tracking: Assign income and expenses to specific categories.✅ Multi-Account Support: Track multiple accounts (Cash, Bank, Wallet, etc.).  Firebase Firestore Integration: Real-time database support for secure data storage.✅ Responsive UI: Works smoothly across all screen sizes.
 
 📷 Screenshots
-![1](https://github.com/user-attachments/assets/1930d58f-efa4-4e95-bcc0-8f69e7f01444)
+
+![4 spendsync](https://github.com/user-attachments/assets/c1e2854d-052c-46c4-b549-abdb44562aac)
+![1](https://github.com/user-attachments/assets/7908ad20-96a4-42a7-a3f8-d2b6b637482d)
 
 
 
